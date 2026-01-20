@@ -23,111 +23,111 @@ ORDER BY
 LIMIT 25;
 
 /*
-Here's a breakdown of the results for top paying skills for Data Analysts:
+Here's a breakdown of the results for top paying skills for Data Analysts in India:
 - High Demand for Big Data & ML Skills: Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), reflecting the industry's high valuation of data processing and predictive modeling capabilities.
 - Software Development & Deployment Proficiency: Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
 - Cloud Computing Expertise: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 
 [
   {
-    "skills": "pyspark",
-    "avg_salary": "208172"
+    "skills": "visio",
+    "avg_salary": "119250"
   },
   {
-    "skills": "bitbucket",
-    "avg_salary": "189155"
+    "skills": "jira",
+    "avg_salary": "119250"
   },
   {
-    "skills": "couchbase",
-    "avg_salary": "160515"
+    "skills": "confluence",
+    "avg_salary": "119250"
   },
   {
-    "skills": "watson",
-    "avg_salary": "160515"
+    "skills": "power bi",
+    "avg_salary": "118140"
   },
   {
-    "skills": "datarobot",
-    "avg_salary": "155486"
+    "skills": "azure",
+    "avg_salary": "118140"
   },
   {
-    "skills": "gitlab",
-    "avg_salary": "154500"
+    "skills": "powerpoint",
+    "avg_salary": "104550"
   },
   {
-    "skills": "swift",
-    "avg_salary": "153750"
+    "skills": "flow",
+    "avg_salary": "96604"
   },
   {
-    "skills": "jupyter",
-    "avg_salary": "152777"
+    "skills": "sheets",
+    "avg_salary": "93600"
   },
   {
-    "skills": "pandas",
-    "avg_salary": "151821"
+    "skills": "word",
+    "avg_salary": "89579"
   },
   {
-    "skills": "elasticsearch",
-    "avg_salary": "145000"
+    "skills": "sql",
+    "avg_salary": "85397"
   },
   {
-    "skills": "golang",
-    "avg_salary": "145000"
+    "skills": "excel",
+    "avg_salary": "84366"
   },
   {
-    "skills": "numpy",
-    "avg_salary": "143513"
+    "skills": "pytorch",
+    "avg_salary": "79200"
   },
   {
-    "skills": "databricks",
-    "avg_salary": "141907"
+    "skills": "unix",
+    "avg_salary": "79200"
   },
   {
-    "skills": "linux",
-    "avg_salary": "136508"
+    "skills": "tensorflow",
+    "avg_salary": "79200"
   },
   {
-    "skills": "kubernetes",
-    "avg_salary": "132500"
+    "skills": "windows",
+    "avg_salary": "79200"
   },
   {
-    "skills": "atlassian",
-    "avg_salary": "131162"
+    "skills": "python",
+    "avg_salary": "77186"
   },
   {
-    "skills": "twilio",
-    "avg_salary": "127000"
+    "skills": "r",
+    "avg_salary": "76667"
   },
   {
-    "skills": "airflow",
-    "avg_salary": "126103"
+    "skills": "outlook",
+    "avg_salary": "75068"
   },
   {
-    "skills": "scikit-learn",
-    "avg_salary": "125781"
+    "skills": "oracle",
+    "avg_salary": "75068"
   },
   {
-    "skills": "jenkins",
-    "avg_salary": "125436"
+    "skills": "tableau",
+    "avg_salary": "74435"
   },
   {
-    "skills": "notion",
-    "avg_salary": "125000"
+    "skills": "t-sql",
+    "avg_salary": "64600"
   },
   {
-    "skills": "scala",
-    "avg_salary": "124903"
+    "skills": "vba",
+    "avg_salary": "64600"
   },
   {
-    "skills": "postgresql",
-    "avg_salary": "123879"
+    "skills": "ms access",
+    "avg_salary": "64600"
   },
   {
-    "skills": "gcp",
-    "avg_salary": "122500"
+    "skills": "looker",
+    "avg_salary": "64600"
   },
   {
-    "skills": "microstrategy",
-    "avg_salary": "121619"
+    "skills": "sql server",
+    "avg_salary": "64600"
   }
 ]
 */
